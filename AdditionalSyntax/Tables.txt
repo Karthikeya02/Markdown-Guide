@@ -1,0 +1,5 @@
+| Name     | Email          |
+| -------- | -------------- |
+| Elliot Alderson | elliot@fsociety.org |
+| Darlene Alderson | darlene@fsociet.org |
+| Angela Moss | angela.moss@ecorp.com |
