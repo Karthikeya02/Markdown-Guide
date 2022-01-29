@@ -73,7 +73,7 @@ ___
 ---
 # Ordered Lists
 <!-- Ordered Lists -->
-[Syntax](AdditionalSyntax\UnlistedItems.txt)
+[Syntax](AdditionalSyntax/UnlistedItems.txt)
 
 1. Item 1
 2. Item 2
@@ -151,7 +151,7 @@ return num1 + num2
 ---
 ---
 ## Tables
->[Syntax](_"Tables Syntax")
+>[Syntax](AdditionalSyntax/Tables.txt)
 
 | Name     | Email          |
 | - | - |
