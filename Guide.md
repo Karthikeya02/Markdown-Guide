@@ -91,7 +91,7 @@ ___
 ---
 # Images
 <!-- Images -->
-\![Github Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg \"Github Logo")
+![Github Logo] (https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg "Github Logo")
 
 is
 
