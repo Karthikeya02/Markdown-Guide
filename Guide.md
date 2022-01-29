@@ -35,11 +35,12 @@
 
 <!-- Horizontal Rule -->
 # Horizontal Rule
-\--- is :
+--- is :
 
 ---
 
-\___ is also : 
+___ is also : 
+
 ___
 
 # Blockquote
