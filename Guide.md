@@ -158,7 +158,7 @@ return num1 + num2
 | Name     | Email          |
 | - | - |
 | Elliot Alderson | elliot@fsociety.org |
-| Darlene Alderson | darlene@fsociet.org |
+| Darlene Alderson | darlene@fsociety.org |
 | Angela Moss | angela.moss@ecorp.com |
 
 ---
