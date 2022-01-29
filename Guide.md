@@ -10,6 +10,9 @@
 ###### Heading 6 = ###### Heading 6
 ---
 ---
+#Comments
+
+\<!-- This is How Comments are Made -->
 # Italics
 <!-- Italics -->
 \*Italic\* = *Italic*
@@ -39,9 +42,7 @@
 
 ---
 
-___ is also : 
 
-___
 
 # Blockquote
 <!-- Blockquote -->
@@ -72,8 +73,8 @@ ___
 
 ---
 ---
-# Ordered Lists
-<!-- Ordered Lists -->
+# Ordered List Items
+<!-- Ordered List Items -->
 [Syntax](AdditionalSyntax/UnlistedItems.txt)
 
 1. Item 1
