@@ -49,11 +49,11 @@ ___
 
 # Hyper Links
 <!-- Hyper Links -->
-\[Markdown Guide](https://github.com/Karthikeya02/Markdown-Guide):
+\[Markdown Guide](https://github.com/Karthikeya02/Markdown-Guide) :
 
 [Markdown Guide](https://github.com/Karthikeya02/Markdown-Guide)
 
-\[Markdown Guide](https://github.com/Karthikeya02/Markdown-Guide "Markdown Guide"):
+\[Markdown Guide](https://github.com/Karthikeya02/Markdown-Guide "Markdown Guide") :
 
 [Markdown Guide](https://github.com/Karthikeya02/Markdown-Guide "Markdown Guide")
 
@@ -61,22 +61,19 @@ ___
 ---
 # Unlisted Items
 <!-- Unlisted Items -->
-\* Item 1 
-
-	* Nested Item 1
+[Syntax](AdditionalSyntax/UnlistedItems.txt)
 
 * Item 1
-  * Nested Item 1
+	* Nested Item 1
+* Item 2
+* Item 3
+	* Nested Item 3
 
 ---
 ---
 # Ordered Lists
 <!-- Ordered Lists -->
-1. Item 1
-2. Item 2
-3. Item 3
-
-is same as
+[Syntax](AdditionalSyntax\UnlistedItems.txt)
 
 1. Item 1
 2. Item 2
